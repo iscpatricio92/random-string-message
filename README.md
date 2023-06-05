@@ -1,2 +1,3 @@
-# random-string-msj
+# random-string-message
+
 Random string messages

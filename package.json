@@ -1,0 +1,24 @@
+{
+  "name": "random-string-message",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iscpatricio92/random-string-message.git"
+  },
+  "keywords": [],
+  "author": "Patricio Gomez <isc.patricio@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iscpatricio92/random-string-message/issues"
+  },
+  "homepage": "https://github.com/iscpatricio92/random-string-message#readme",
+  "bin":{
+    "random-string-message":"./bin/global.js"
+  },
+  "preferGlobal": true
+}
