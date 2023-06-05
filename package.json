@@ -17,8 +17,8 @@
     "url": "https://github.com/iscpatricio92/random-string-message/issues"
   },
   "homepage": "https://github.com/iscpatricio92/random-string-message#readme",
-  "bin":{
-    "random-string-message":"./bin/global.js"
+  "bin": {
+    "random-string-message": "./bin/global.js"
   },
   "preferGlobal": true
 }
